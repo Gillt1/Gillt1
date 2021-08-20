@@ -1,6 +1,6 @@
 <h3 align="center">Hello and welcome!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tomagill/">LinkedIn/a> •
+  <a href="https://www.linkedin.com/in/tomagill">LinkedIn</a> •
   <a href="https://twitter.com/muspellhiem">Twitter</a>
 
 Join me as I begin my transformation from USCG Rescue Pilot to Cyber Security Professional here. I imagine that this will grow as I learn and branch out. 
